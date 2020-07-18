@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Game of set for Ohio State CSE",
   "main": "index.js",
-  "homepage": "https://github.com/mhamill2/game-of-set#readme",
+  "homepage": "https://github.com/mhamill2/game-of-set",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
